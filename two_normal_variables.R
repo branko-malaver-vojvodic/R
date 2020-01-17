@@ -1,3 +1,4 @@
+#Plotting the graph of two normal variables at the same time
 lcb <- (-20)
 ucb <- (40)
 
